@@ -14,7 +14,7 @@ Faucets for ETH Testnets are spammed by bots. This faucet tries to reduce the ef
 This faucet is mostly known for its proof-of-work based protection, which is currently the best and most reliable way to distribute funds on a network that got low on fund reserves.
 
 For clarification: This faucet does NOT generate new coins with the "mining" process.
-It's just one of the protection methods the faucet uses to prevent anyone from requesting big amount of funds and draining the faucet wallet.
+It's just one of the protection methods the faucet uses to prevent anyone from requesting big amount of funds and draining the  wallet.
 If you want to run your own instance you need to transfer the funds you want to distribute to the faucet wallet yourself!
 
 For a more detailed description, take a look into the [Project Wiki](https://github.com/pk910/PoWFaucet/wiki)
